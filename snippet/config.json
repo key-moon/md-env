@@ -1,0 +1,16 @@
+{
+  "loader": {
+    "header-separator": ": +"
+  },
+  "targets": {
+    "vscode": {
+      "cursor": "<!-- cursor -->",
+      "package": {
+        "name": "md-snippet",
+        "version": "0.0.1",
+        "publisher": "keymoon",
+        "engines": { "vscode": "^1.0.0" }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "md-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "dependencies": {
+    "marked-katex-extension": "github:key-moon/marked-katex-extension",
+    "md-to-pdf": "^5.2.4"
+  }
+}
