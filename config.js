@@ -1,4 +1,4 @@
-const markedKatex = require("marked-katex-extension");
+const markedKatex = require("./katex_extension")
 
 module.exports = {
 	// basedir: process.cwd(),
